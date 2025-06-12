@@ -23,15 +23,12 @@ How to Run:
 -----------
 1. Make sure Python is installed on your system (version 3.6 or higher is recommended).
 
-2. Save the Python code in a file named:
-   converter.py
-
-3. (Optional) If your system does not have 'colorama' module, you may either:
+2. (Optional) If your system does not have 'colorama' module, you may either:
    - Remove all 'colorama' references from the code (no color output), OR
    - Install 'colorama' using pip:
      pip install colorama
 
-4. To run the program:
+3. To run the program:
    - Right-click the file and select "Open with Python"
    OR
    - Open a terminal/command prompt
@@ -40,7 +37,7 @@ How to Run:
      python "Number System Converter.py"
    - Press Enter
 
-## 📸 Demo 
+## Demo 
 
 ![Screenshot 2025-06-08 180546](https://github.com/user-attachments/assets/91d34e9b-6a97-4635-846a-e8c4537e95d1)
 
@@ -49,8 +46,3 @@ Note:
 -----
 This program is designed to run in a terminal. If you want to use it in an IDE (like VS Code),
 just open the code in the editor and click "Run" or use the built-in terminal to execute it.
-
-License:
---------
-This project is provided for educational purposes only. If you use or modify this code,
-please credit the original author. Redistribution without permission is discouraged.
